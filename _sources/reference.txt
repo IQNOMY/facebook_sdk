@@ -4,6 +4,8 @@ References
 
 To build the initial SDK we need reference documention to build the SDK.
 
+To create an IQNOMY test account for the sdk. Just go to http://www.iqnomy.com and create an account.
+
 *****
 Links
 *****
@@ -26,5 +28,4 @@ In the integration documention the info for :download:`Rest for registering even
 Technical design
 ****************
 
-.. todo::
 
