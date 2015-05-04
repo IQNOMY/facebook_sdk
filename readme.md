@@ -3,6 +3,7 @@ Send some Facebook user information automaticly to an Iqnomy hosted script that'
 
 ## Usage
 Three things are necessary:
+
 1. The default IQNOMY init
 2. An object `_iqfbvrs` with some user-information from facebook, you need to grab these information from your facebook connect
 3. An extra script-tag that retrieves the IQNOMY Facebook script
@@ -10,12 +11,14 @@ Three things are necessary:
 First, load the default init of IQNOMY, <link>
 
 Second, set in the head of the page a new object with 3 elements:
+
 | Key                    | Value description                |
 |------------------------|----------------------------------|
 | facebookUserId         | The appname (in Iqnomy)          |
 | facebookAccessToken    | The accestoken given by Facebook |
 
 Code:
+
 	<script type="text/javascript">
 	var _iqfbvrs = {
 		'facebookUserId': '',
@@ -24,6 +27,7 @@ Code:
 	</script>
 
 Third: add this small snippet of JavaScript to the head of your HTML page.
+
 	<script type="text/javascript">
 	(function() {
 		var _iqfbs, _iqfb = document.createElement('script'); _iqfb.type = 'text/javascript'; _iqfb.async = true;
