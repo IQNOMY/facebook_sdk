@@ -1,5 +1,5 @@
-# Iqnomy Facebook
-Send some Facebook user information automaticly to an Iqnomy hosted script that's checking the app permissions.
+# IQNOMY Facebook
+Send some Facebook user information automaticly to an IQNOMY hosted script that's checking the app permissions.
 
 ## Usage
 Three things are necessary:
