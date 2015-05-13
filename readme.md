@@ -14,7 +14,7 @@ Second, set in the head of the page a new object with 3 elements:
 
 | Key                    | Value description                |
 |------------------------|----------------------------------|
-| facebookUserId         | The appname (in Iqnomy)          |
+| facebookUserId         | The appname (in IQNOMY)          |
 | facebookAccessToken    | The accestoken given by Facebook |
 
 Code:
